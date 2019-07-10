@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Squoosh",
   "description": "Displays a sidebar for Google's Squoosh web app.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "AnalogCyan",
   "developer": {
     "name": "AnalogCyan",
@@ -15,6 +15,10 @@
     "default_title": "Squoosh",
     "default_panel": "sidebar/panel.html",
     "browser_style": true
+  },
+
+  "icons": {
+    "48": "icons/logo.af355.svg"
   },
 
   "offline_enabled": true,
